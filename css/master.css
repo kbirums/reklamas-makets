@@ -99,7 +99,8 @@ img{
 .cover_bilde {
     height: 200px;
     overflow: hidden;
-    opacity: 0.18;
+    mix-blend-mode: soft-light;
+    opacity: 0.4;
 }
 .sadalas {
     background: #464646;
