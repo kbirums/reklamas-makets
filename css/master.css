@@ -52,8 +52,10 @@ img{
   overflow: hidden;
 }
 .sadalas {
-    background: #151515;
-    height: 60px;
+    background: #393a3c;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
 }
 .sadalas_item {
   color:white;
