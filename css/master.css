@@ -54,6 +54,7 @@ img{
 
 /*/ lapas frame/*/
 #header{
+  clear: both;
   width:100%;
   border: 1px solid grey;
   height:300px;
