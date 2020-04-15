@@ -20,6 +20,10 @@ h3, h4 {
     padding-top: 10px;
     font-size: 18px;
 }
+ul{
+  padding-left:30px;
+  line-height: 1.5rem;
+}
 /*/ header/*/
 #topnav {
     height: 20px;
@@ -201,10 +205,6 @@ font-weight: 700;
   background: #101010;
       color: #f4ca00;
   }
-.specs{
-  padding-left:30px;
-  line-height: 1.5rem;
-}
 /*/ Kontakti /*/
 .kontakti {
     background: white;
