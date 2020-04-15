@@ -13,6 +13,9 @@ img{
     width: 100%;
 }
 /*/ header/*/
+#logo{
+    padding: 10px 0;
+}
 #lapas_saturs{
     margin: 0 auto;
     width: 1180px;
@@ -24,11 +27,10 @@ img{
     height: 25px;
 }
 .second_menu_item{
-    display: inline-block;
-    list-style: none;
-    padding: 0 5px;
-    margin: 0 5px;
-    height: 35px;
+  display: inline-flex;
+  padding: 0px 5px;
+  margin: 0 5px;
+  height: 15px;
 }
 
 /*/ saturs/*/
