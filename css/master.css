@@ -62,10 +62,12 @@ img{
 #sleja{
   float:left;
   width: 60%;
-  padding-rig:10%
+  padding-right:10%;
+  border: 1px solid grey;
 }
 #sidebar{
   float:right;
   width: 30%;
+  border: 1px solid grey;
 }
 /*/ banneri/*/
