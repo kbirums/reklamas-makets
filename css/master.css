@@ -24,6 +24,9 @@ img{
     margin: 0 auto;
     width: 1180px;
 }
+.first_menu{
+  padding: 10px 0;
+}
 .first_menu_item {
     line-height: 20px;
     display: inline-flex;
