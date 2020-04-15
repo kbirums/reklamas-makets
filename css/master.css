@@ -93,14 +93,16 @@ img{
 
 /*/ lapas frame/*/
 #header{
-  width:90%;
-  border: 1px solid grey;
+  background: grey;
+  width: 100%;
+  margin-right: 30px;
+  height: 300px;
 }
 #sleja {
     background: grey;
     float: left;
-    width: 67%;
-    margin-right: 30px;
+    width: 880px;
+    margin-right: 20px;
     height: 300px;
 }
 #sidebar{
