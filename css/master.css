@@ -207,12 +207,17 @@ font-weight: 700;
 }
 #cenas-izmeri:checked ~ .panels #one-panel,
 #specifikacija:checked ~ .panels #two-panel,
-#cenas:checked ~ .panels #three-panel{
+#cenas:checked ~ .panels #three-panel
+#drukatie-mediji:checked ~ .panels #four-panel
+#kontakti:checked ~ .panels #five-panel{
   display:block
 }
 #cenas-izmeri:checked ~ .tabs #one-tab,
 #specifikacija:checked ~ .tabs #two-tab,
-#cenas:checked ~ .tabs #three-tab{
+#musu-logo:checked ~ .tabs #three-tab,
+#drukatie-mediji:checked ~ .tabs #four-tab,
+#kontakti:checked ~ .tabs #five-tab
+{
   background:#fffffff6;
   color:#000;
   border-top: 3px solid #000;
