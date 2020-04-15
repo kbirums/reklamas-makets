@@ -223,7 +223,7 @@ padding: 0 0 20px 0;
   line-height: 1.5rem;
 }
 /*/ zurnali /*/
-.zurnalu_logo{
+#zurnalu_logo{
   margin:0 auto;
   width:150px;
 }
@@ -240,4 +240,7 @@ padding: 0 0 20px 0;
 }
 .sauklis, .cenas{
   text-align:center;
+}
+.drukato_info{
+  text-align: left;
 }
