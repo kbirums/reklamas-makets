@@ -225,9 +225,13 @@ padding: 0 0 20px 0;
 /*/ zurnali /*/
 .zurnalu_logo{
   margin:0 auto;
+  width:150px;
 }
-.izvietojumu_poga{
-  border:1px solid green;
+.izvietojumu_poga {
+    border: 1px solid grey;
+    width: 70%;
+    margin: 5px auto;
+    padding: 10px;
 }
 .zurnals{
     width: 45%;
