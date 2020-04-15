@@ -65,7 +65,7 @@ img{
     font-size: 16px;
 }
 .second_menu_item:first-child {
-font-weight: 500;
+font-weight: 700;
 }
 .second_menu_item:hover{
   text-decoration: underline;
