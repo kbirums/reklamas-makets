@@ -204,13 +204,15 @@ font-weight: 700;
 #one:checked ~ .panels #one-panel,
 #two:checked ~ .panels #two-panel,
 #three:checked ~ .panels #three-panel,
-#four:checked ~ .panels #four-panel{
+#four:checked ~ .panels #four-panel,
+#five:checked ~ .panels #five-panel{
   display:block
 }
 #one:checked ~ .tabs #one-tab,
 #two:checked ~ .tabs #two-tab,
 #three:checked ~ .tabs #three-tab,
-#four:checked ~ .tabs #four-tab{
+#four:checked ~ .tabs #four-tab,
+#five:checked ~ .tabs #five-tab{
   background:#fffffff6;
   color:#000;
   border-top: 3px solid #000;
