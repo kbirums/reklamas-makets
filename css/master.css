@@ -67,6 +67,12 @@ img{
 }
 .uzruna{
   position: absolute;
+      font-size: 3rem;
+      text-transform: uppercase;
+      font-weight: 300;
+      color: white;
+      top: 125px;
+      left: 50px;
 }
 .main_content {
     background: white;
