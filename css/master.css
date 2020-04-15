@@ -22,16 +22,21 @@ img{
     width: 1180px;
 }
 .first_menu_item {
+    line-height: 20px;
     display: inline-flex;
-    padding: 0px 5px;
-    margin: 0 5px;
-    height: 25px;
+    padding: 0px 10px;
+    margin-bottom: 4px;
+    font-size: 20px;
+    border-right: 2px solid grey;
 }
-.second_menu_item{
-  display: inline-flex;
-  padding: 0px 5px;
-  margin: 0 5px;
-  height: 15px;
+.first_menu_item:last-child{
+  border-right: none;
+}
+.second_menu_item {
+    display: inline-flex;
+    padding: 5px;
+    height: 20px;
+    margin-bottom: 10px;
 }
 
 /*/ saturs/*/
