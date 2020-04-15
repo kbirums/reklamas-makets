@@ -179,9 +179,11 @@ font-weight: 700;
 .panel{
   display:none;
 }
-.panel-title{
-  font-size:1.5em;
-  font-weight:bold
+.panel-title {
+    border-bottom: 2px solid #f5cb02;
+    font-size: 2em;
+    padding-bottom: 5px;
+    margin: 5px;
 }
 .radio{
   display:none;
