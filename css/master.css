@@ -24,7 +24,7 @@ body{
 .menu{
     display: flex;
 }
-.main_menu{
+#top_header{
     margin: 0 auto;
     width: 1180px;
 }
