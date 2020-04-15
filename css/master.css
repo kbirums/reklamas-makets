@@ -7,7 +7,7 @@
 html{
   background: whitesmoke;
 }
-/*/ saturs /*/
+/*/ header/*/
 #lapas_saturs{
     margin: 0 auto;
     width: 1180px;
@@ -26,6 +26,8 @@ html{
     margin: 0 5px;
     height: 35px;
 }
+
+/*/ saturs/*/
 .cover_bilde{
   height: 300px;
   overflow: hidden;
@@ -42,6 +44,7 @@ html{
     text-align: center;
     margin: 1%;
 }
+
 /*/ lapas frame/*/
 #header{
   width:100%;
