@@ -61,9 +61,9 @@ img{
     font-size: 17px;
 }
 /*/ saturs/*/
-.main_content{
-  background: white;
-  height: auto;
+.main_content {
+    background: white;
+    height: 1200px;
 }
 .cover_bilde {
   height: 200px;
