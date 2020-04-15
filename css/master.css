@@ -21,6 +21,9 @@ body{
   height:350px;
   boarder:1px solid green;
 }
+.menu{
+    display: flex;
+}
 .main_menu{
     margin: 0 auto;
     width: 1180px;
