@@ -170,11 +170,11 @@ font-weight: 700;
 .tab {
     cursor: pointer;
     padding: 10px 20px;
-    font-size: 18px;
-    font-weight: 400;
+    font-size: 20px;
+    font-weight: 300;
     margin: 5px 10px 0;
     display: inline-block;
-    color: #fff;
+    color: white;
 }
 .panels {
     background: #fffffff6;
