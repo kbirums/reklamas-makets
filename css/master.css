@@ -66,14 +66,15 @@ img{
     background-color: #542626;
     position: relative;
 }
-.uzruna{
-  position: absolute;
-      font-size: 3rem;
-      text-transform: uppercase;
-      font-weight: 300;
-      color: white;
-      top: 125px;
-      left: 50px;
+.uzruna {
+    position: absolute;
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: white;
+    top: 125px;
+    left: 50px;
+    z-index: 1;
 }
 .main_content {
     background: white;
@@ -83,10 +84,10 @@ img{
 .cover_bilde {
     height: 200px;
     overflow: hidden;
-    background-color: #101010;
+    opacity: 0.38;
 }
 .sadalas {
-    background: #393a3c;
+    background: #464646;
     margin: 0 auto;
     text-align: center;
     margin-bottom: 10px;
