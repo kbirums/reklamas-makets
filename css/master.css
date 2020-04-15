@@ -140,10 +140,6 @@ font-weight: 700;
   height: 300px;
 }
 /*/ tabi /*/
-.kontakti{
-  width:300px;
-  float:right;
-}
 .warpper {
     background: #f5cc06;
     display: block;
@@ -193,4 +189,13 @@ font-weight: 700;
 #five:checked ~ .tabs #five-tab{
   background: #101010;
       color: #f4ca00;
+  }
+/*/ Kontakti /*/
+.kontakti{
+  width:300px;
+  float:right;
+}
+.bilde{
+    height: 200px;
+    overflow: hidden;
   }
