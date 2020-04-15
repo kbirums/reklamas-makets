@@ -13,6 +13,9 @@ img{
     width: 100%;
 }
 /*/ header/*/
+#top_header{
+    padding: 10px 0;
+}
 #logo{
     padding: 10px 0;
     width: 250px;
