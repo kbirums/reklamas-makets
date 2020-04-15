@@ -1,3 +1,4 @@
+/*/ defaultais /*/
 * {
     box-sizing: border-box;
     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
@@ -6,6 +7,7 @@
 html{
   background: whitesmoke;
 }
+/*/ saturs /*/
 #lapas_saturs{
     margin: 0 auto;
     width: 1180px;
@@ -36,19 +38,19 @@ second_menu_item{
   width:200px;
   height: 100px;
 }
-/*/ sākas banneru zona /*/
-#giga{
-  width:1000px;
+/*/ lapas frame/*/
+#header{
+  width:100%;
   border: 1px solid grey;
   height:300px;
 }
-#centrs {
-  width:1000px;
-  border: 1px solid grey;
-  height:300px;
+#sleja{
+  float:left;
+  width: 60%;
+  padding-rig:10%
 }
 #sidebar{
-  width:1000px;
-  border: 1px solid grey;
-  height:300px;
+  float:right;
+  width: 30%;
 }
+/*/ banneri/*/
