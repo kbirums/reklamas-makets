@@ -13,9 +13,16 @@ img{
     width: 100%;
 }
 /*/ header/*/
+#topnav{
+  position: relative;
+}
 .top_stuff{
   display: inline-block;
   padding:0 5px;
+  float:right;
+}
+#lang{
+  float:left;
 }
 #top_header{
     padding: 10px 0;
