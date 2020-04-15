@@ -223,6 +223,9 @@ padding: 0 0 20px 0;
   line-height: 1.5rem;
 }
 /*/ zurnali /*/
+.zurnalu_logo{
+  margin:0 auto;
+}
 .izvietojumu_poga{
   border:1px solid green;
 }
