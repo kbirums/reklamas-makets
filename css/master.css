@@ -3,6 +3,9 @@
     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
     object-fit: cover;
 }
+html{
+  background: whitesmoke;
+}
 body{
   width:100%;
   margin:0;
