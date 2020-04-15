@@ -204,7 +204,7 @@ font-weight: 700;
 #one:checked ~ .panels #one-panel,
 #two:checked ~ .panels #two-panel,
 #three:checked ~ .panels #three-panel,
-#four:checked ~ .panels #four-panel,{
+#four:checked ~ .panels #four-panel{
   display:block
 }
 #one:checked ~ .tabs #one-tab,
