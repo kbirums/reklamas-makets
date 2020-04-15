@@ -147,9 +147,10 @@ font-weight: 700;
     text-align: center;
 }
 .tab {
+    border: 1px solid;
     cursor: pointer;
     padding: 5px 20px;
-    font-size: 19px;
+    font-size: 18px;
     font-weight: 400;
     margin: 9px 10px;
     text-transform: uppercase;
