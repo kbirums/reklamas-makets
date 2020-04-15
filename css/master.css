@@ -174,9 +174,11 @@ font-weight: 700;
   display:inline-block;
   color:#fff;
   border-radius:3px 3px 0px 0px;
+  box-shadow: 0 0.5rem 0.8rem #00000080;
 }
 .panels{
   background:#fffffff6;
+  box-shadow: 0 2rem 2rem #00000080;
   min-height:200px;
   width:100%;
   max-width:500px;
@@ -203,19 +205,14 @@ font-weight: 700;
 .radio{
   display:none;
 }
-#cenas_izmeri:checked ~ .panels #one-panel,
-#specifikacija:checked ~ .panels #two-panel,
-#auditorija:checked ~ .panels #three-panel,
-#drukatie_mediji:checked ~ .panels #four-panel,
-#kontakti:checked ~ .panels #five-panel{
+#one:checked ~ .panels #one-panel,
+#two:checked ~ .panels #two-panel,
+#three:checked ~ .panels #three-panel{
   display:block
 }
-#cenas_izmeri:checked ~ .tabs #one-tab,
-#specifikacija:checked ~ .tabs #two-tab,
-#auditorija:checked ~ .tabs #three-tab,
-#drukatie_mediji:checked ~ .tabs #four-tab,
-#kontakti:checked ~ .tabs #five-tab
-{
+#one:checked ~ .tabs #one-tab,
+#two:checked ~ .tabs #two-tab,
+#three:checked ~ .tabs #three-tab{
   background:#fffffff6;
   color:#000;
   border-top: 3px solid #000;
