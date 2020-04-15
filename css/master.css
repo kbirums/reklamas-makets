@@ -140,6 +140,10 @@ font-weight: 700;
   height: 300px;
 }
 /*/ tabi /*/
+.kontakti{
+  width:300px;
+  float:right;
+}
 .warpper {
     background: #f5cc06;
     display: block;
