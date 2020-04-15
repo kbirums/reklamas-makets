@@ -225,7 +225,7 @@ padding: 0 0 20px 0;
 /*/ zurnali /*/
 #zurnalu_logo{
   margin:0 auto;
-  width:150px;
+  width:90%;
 }
 .izvietojumu_poga {
     border: 1px solid grey;
@@ -234,13 +234,16 @@ padding: 0 0 20px 0;
     padding: 10px;
 }
 .zurnals {
-    padding: 10px;
-    width: 45%;
+    padding: 5px;
+    width: 32%;
     float: left;
 }
-.sauklis .cenas{
+.sauklis, .cenas{
   text-align:center;
 }
 .drukato_info{
   text-align: left;
+}
+.drukatie_mediji{
+    padding-top: 25px;
 }
