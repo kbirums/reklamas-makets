@@ -159,7 +159,7 @@ font-weight: 700;
 .panels {
     background: #fffffff6;
     min-height: 600px;
-    width: 75%;
+    width: 74%;
     margin-left: 0;
     float: left;
     overflow: hidden;
@@ -191,9 +191,12 @@ font-weight: 700;
       color: #f4ca00;
   }
 /*/ Kontakti /*/
-.kontakti{
-  width:300px;
-  float:right;
+.kontakti {
+    background: white;
+    width: 26%;
+    float: right;
+    padding: 13px;
+    margin: 0;
 }
 .bilde{
     height: 200px;
