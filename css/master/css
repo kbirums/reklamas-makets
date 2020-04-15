@@ -8,7 +8,12 @@
   height:350px;
   boarder:1px solid green;
 }
-#header{
+#sleja{
+  background:grey;
+  height:350px;
+  boarder:1px solid green;
+}
+#sidebar{
   background:grey;
   height:350px;
   boarder:1px solid green;
