@@ -112,16 +112,17 @@ font-weight: 700;
     margin-bottom: 10px;
 }
 .sadalas_item {
-    color: white;
+    color: #383838;
+    text-transform: uppercase;
     border: 1px solid whitesmoke;
-    font-size: 18px;
+    font-size: 17px;
     display: inline-block;
-    padding: 10px 15px;
-    margin: 5px;
+    padding: 5px 10px;
+    margin: 10px;
 }
 .sadalas_item:hover {
-    color: #393a3c;
-    background: #f5cc06;
+    color: #fff;
+    background: #000;
     border: 1px solid #f5cc06;
     border-radius: 10px;
 }
