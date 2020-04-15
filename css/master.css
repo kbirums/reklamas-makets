@@ -230,8 +230,9 @@ padding: 0 0 20px 0;
 .izvietojumu_poga {
     border: 1px solid grey;
     width: 70%;
-    margin: 5px auto;
+    margin: 0 auto;
     padding: 10px;
+    text-align: center;
 }
 .zurnals {
     padding: 5px;
