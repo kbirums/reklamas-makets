@@ -206,8 +206,8 @@ font-weight: 700;
 }
 #cenas-izmeri:checked ~ .panels #one-panel,
 #specifikacija:checked ~ .panels #two-panel,
-#cenas:checked ~ .panels #three-panel
-#drukatie-mediji:checked ~ .panels #four-panel
+#cenas:checked ~ .panels #three-panel,
+#drukatie-mediji:checked ~ .panels #four-panel,
 #kontakti:checked ~ .panels #five-panel{
   display:block
 }
