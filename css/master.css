@@ -33,10 +33,14 @@ second_menu_item{
 .sadala{
   height:100px;
 }
-.sadalas_item{
-  border: 1px solid grey;
-  width:200px;
-  height: 100px;
+.sadalas_item {
+    border: 1px solid grey;
+    width: 31%;
+    max-height: 60px;
+    float: left;
+    padding: 10px 5px;
+    text-align: center;
+    margin: 1%;
 }
 /*/ lapas frame/*/
 #header{
