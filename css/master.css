@@ -1,3 +1,6 @@
+body{
+  width:100%;
+}
 #header{
   background:grey;
   height:350px;
