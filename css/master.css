@@ -162,6 +162,7 @@ font-weight: 700;
     width: 74%;
     margin-left: 0;
     float: left;
+    text-align: left;
     overflow: hidden;
     padding: 20px;
 }
@@ -190,6 +191,9 @@ font-weight: 700;
   background: #101010;
       color: #f4ca00;
   }
+.specs{
+  padding-left:30px;
+}
 /*/ Kontakti /*/
 .kontakti {
     background: white;
