@@ -112,4 +112,14 @@ height:35px;}
   width: 30%;
   border: 1px solid grey;
 }
-/*/ banneri/*/
+/*/ banneri/*/\
+
+.reklamlauks{
+  border:1px solid pink;
+  background:pink;
+  padding:10px;
+}
+.reklama:hover{
+  border:1px solid grey;
+  background:grey;
+}
