@@ -233,3 +233,12 @@ padding: 0 0 20px 0;
 .drukato_info{
   float:left;
 }
+/*/ izvietojumi /*/
+.subkad_virs{
+  background: yellow;
+  height:10px;
+}
+.subkategorija{
+  font-size:30px;
+  background:White;
+}
