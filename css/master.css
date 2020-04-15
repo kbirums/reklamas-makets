@@ -223,28 +223,12 @@ padding: 0 0 20px 0;
   line-height: 1.5rem;
 }
 /*/ zurnali /*/
-#zurnalu_logo{
-  margin:0 auto;
-  width:90%;
-}
-.izvietojumu_poga {
-    border: 1px solid grey;
-    width: 70%;
-    margin: 0 auto;
-    padding: 10px;
-    text-align: center;
-}
 .zurnals {
-    padding: 5px;
-    width: 32%;
-    float: left;
+  position: relative;
 }
-.sauklis, .cenas{
-  text-align:center;
+#zurnalu_logo{
+  float:left;
 }
 .drukato_info{
-  text-align: left;
-}
-.drukatie_mediji{
-    padding-top: 25px;
+  float:left;
 }
