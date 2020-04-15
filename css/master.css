@@ -12,14 +12,14 @@ html{
     margin: 0 auto;
     width: 1180px;
 }
-first_menu_item{
+.first_menu_item{
   display: inline-flex;
     list-style: none;
     padding: 0 5px;
     margin: 0 5px;
     height: 35px;
 }
-second_menu_item{
+.second_menu_item{
     display: inline-block;
     list-style: none;
     padding: 0 5px;
