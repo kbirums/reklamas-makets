@@ -204,14 +204,14 @@ font-weight: 700;
 .radio{
   display:none;
 }
-#cenas-izmeri:checked ~ .panels #one-panel,
+#cenas_izmeri:checked ~ .panels #one-panel,
 #specifikacija:checked ~ .panels #two-panel,
 #auditorija:checked ~ .panels #three-panel,
 #drukatie_mediji:checked ~ .panels #four-panel,
 #kontakti:checked ~ .panels #five-panel{
   display:block
 }
-#cenas-izmeri:checked ~ .tabs #one-tab,
+#cenas_izmeri:checked ~ .tabs #one-tab,
 #specifikacija:checked ~ .tabs #two-tab,
 #auditorija:checked ~ .tabs #three-tab,
 #drukatie_mediji:checked ~ .tabs #four-tab,
