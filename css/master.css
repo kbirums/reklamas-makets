@@ -17,17 +17,10 @@ img{
     height: 20px;
     position: relative;
 }
-.stuff{
-  position: absolute;
-}
 .top_stuff{
-  position: absolute;
-  display: inline-block;
-  padding:0 5px;
   float:right;
 }
-#lang{
-  position: absolute;
+.lang{
   float:left;
 }
 #top_header{
