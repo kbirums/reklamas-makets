@@ -68,6 +68,7 @@ height:35px;}
 /*/ saturs/*/
 .main_content{
   background: white;
+  height: auto;
 }
 .cover_bilde {
   height: 200px;
