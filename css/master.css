@@ -10,27 +10,22 @@ html{
     margin: 0 auto;
     width: 1180px;
 }
-.main_menu_item{
+first_menu_item{
     display: flex;
     list-style: none;
-    padding: 0 10px;
+    padding: 0 5px;
     margin: 0 5px;
 }
-#saturaizvelne{
-    height: 250px;
-}
-#tab_item{
-    position: relative;
-    display: block;
-    height: 50px;
-    text-align: center;
-    float: left;
-    width: 200px;
-    border: 1px solid grey;
-}
-#satura_izvelne{
+.satura_izvelne{
   height: 300px;
 }
+.sadala{
+  height:100px;
+}
+.sadalas_item{
+  border: 1px solid grey;
+}
+/*/ sākas banneru zona /*/
 #giga{
   width:1000px;
   border: 1px solid grey;
