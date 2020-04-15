@@ -64,6 +64,7 @@ img{
 .main_content {
     background: white;
     height: 1200px;
+    padding: 0 20px;
 }
 .cover_bilde {
   height: 200px;
@@ -94,11 +95,11 @@ img{
   width:90%;
   border: 1px solid grey;
 }
-#sleja{
-  float:left;
-  width: 60%;
-  padding-right:10%;
-  border: 1px solid grey;
+#sleja {
+    float: left;
+    width: 67%;
+    margin-right: 30px;
+    border: 1px solid grey;
 }
 #sidebar{
   float:right;
