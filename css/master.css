@@ -35,12 +35,9 @@ img{
 }
 
 /*/ saturs/*/
-.cover_bilde{
+.cover_bilde {
   height: 200px;
   overflow: hidden;
-}
-.sadala{
-  height:100px;
 }
 .sadalas_item {
     border: 1px solid grey;
