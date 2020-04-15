@@ -51,12 +51,12 @@ img{
   height: 200px;
   overflow: hidden;
 }
-.sadalas{
-  background: blue;
-  border:1px solid grey;
-  height: auto;
+.sadalas {
+    background: #151515;
+    height: 60px;
 }
 .sadalas_item {
+  color:white;
     border: 1px solid grey;
     width: 31%;
     max-height: 60px;
