@@ -21,3 +21,7 @@ body{
   height:350px;
   boarder:1px solid green;
 }
+#main_menu{
+    margin: 0 auto;
+    width: 1180px;
+}
