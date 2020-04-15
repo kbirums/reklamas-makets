@@ -1,26 +1,7 @@
 body{
   width:100%;
 }
-#header{
-  background:grey;
-  height:350px;
-  boarder:1px solid green;
-}
-#saturs{
-  background:grey;
-  height:350px;
-  boarder:1px solid green;
-}
-#sleja{
-  background:grey;
-  height:350px;
-  boarder:1px solid green;
-}
-#sidebar{
-  background:grey;
-  height:350px;
-  boarder:1px solid green;
-}
+
 .menu{
     display: flex;
 }
