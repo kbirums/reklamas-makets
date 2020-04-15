@@ -17,6 +17,9 @@ img{
     height: 20px;
     position: relative;
 }
+.stuff{
+  position: absolute;
+}
 .top_stuff{
   position: absolute;
   display: inline-block;
