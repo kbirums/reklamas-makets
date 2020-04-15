@@ -1,9 +1,6 @@
 body{
   width:100%;
-}
-
-.menu{
-    display: flex;
+  margin:0;
 }
 #top_header{
     margin: 0 auto;
