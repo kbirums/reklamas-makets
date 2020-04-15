@@ -37,3 +37,18 @@ body{
 #satura_izvelne{
   height: 300px;
 }
+#giga{
+  width:1000px;
+  border: 1px solid grey;
+  height:300px;
+}
+#centrs {
+  width:1000px;
+  border: 1px solid grey;
+  height:300px;
+}
+#sidebar{
+  width:1000px;
+  border: 1px solid grey;
+  height:300px;
+}
