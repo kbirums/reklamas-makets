@@ -68,6 +68,7 @@ img{
 .sadalas_item:hover {
     color: #393a3c;
     background: #f5cc06;
+    border: 1px solid #f5cc06;
 }
 
 /*/ lapas frame/*/
