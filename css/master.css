@@ -62,8 +62,9 @@ img{
     font-size: 17px;
 }
 /*/ saturs/*/
-#reklamas_tabi{
-  position: relative;
+#reklamas_tabi {
+    background-color: #542626;
+    position: relative;
 }
 .uzruna{
   position: absolute;
@@ -80,8 +81,9 @@ img{
     padding: 0 20px;
 }
 .cover_bilde {
-  height: 200px;
-  overflow: hidden;
+    height: 200px;
+    overflow: hidden;
+    background-color: #101010;
 }
 .sadalas {
     background: #393a3c;
