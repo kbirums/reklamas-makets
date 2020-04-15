@@ -68,11 +68,11 @@ img{
 }
 .uzruna {
     position: absolute;
-    font-size: 2.75rem;
+    font-size: 3.5rem;
     text-transform: uppercase;
     font-weight: 300;
     color: white;
-    top: 105px;
+    top: 90px;
     left: 25px;
     z-index: 1;
 }
@@ -82,7 +82,7 @@ img{
     text-transform: uppercase;
     font-weight: 300;
     color: white;
-    top: 155px;
+    top: 150px;
     left: 25px;
     z-index: 1;
 }
