@@ -46,9 +46,15 @@ img{
 }
 
 /*/ saturs/*/
+
 .cover_bilde {
   height: 200px;
   overflow: hidden;
+}
+.sadalas{
+  background: blue;
+  border:1px solid grey;
+  height: auto;
 }
 .sadalas_item {
     border: 1px solid grey;
