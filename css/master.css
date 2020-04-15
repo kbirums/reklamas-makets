@@ -13,6 +13,10 @@ img{
     width: 100%;
 }
 /*/ header/*/
+.top_stuff{
+  display: inline-block;
+  padding:0 5px;
+}
 #top_header{
     padding: 10px 0;
 }
