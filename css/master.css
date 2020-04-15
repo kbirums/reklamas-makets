@@ -21,17 +21,17 @@ body{
   height:350px;
   boarder:1px solid green;
 }
-#main_menu{
+.main_menu{
     margin: 0 auto;
     width: 1180px;
 }
-#main_menu_item, #second_menu_item{
+.main_menu_item, .second_menu_item{
     display: flex;
     list-style: none;
     padding: 0 10px;
     margin: 0 5px;
 }
-#saturaizvelne{
+.saturaizvelne{
     overflow: hidden;
     height: 250px;
     object-fit: contain;
