@@ -62,6 +62,12 @@ img{
     font-size: 17px;
 }
 /*/ saturs/*/
+#reklamas_tabi{
+  position: relative;
+}
+.uzruna{
+  position: absolute;
+}
 .main_content {
     background: white;
     height: 1200px;
