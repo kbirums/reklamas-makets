@@ -238,7 +238,7 @@ padding: 0 0 20px 0;
     width: 45%;
     float: left;
 }
-.sauklis, .cenas{
+.sauklis .cenas{
   text-align:center;
 }
 .drukato_info{
