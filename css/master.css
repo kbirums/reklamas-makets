@@ -210,9 +210,9 @@ font-weight: 700;
 #cenas:checked ~ .panels #three-panel{
   display:block
 }
-#cenas-izmeri:checked ~ .tabs #1-tab,
-#specifikacija:checked ~ .tabs #2-tab,
-#cenas:checked ~ .tabs #3-tab{
+#cenas-izmeri:checked ~ .tabs #one-tab,
+#specifikacija:checked ~ .tabs #two-tab,
+#cenas:checked ~ .tabs #three-tab{
   background:#fffffff6;
   color:#000;
   border-top: 3px solid #000;
