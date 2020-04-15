@@ -149,10 +149,9 @@ font-weight: 700;
 .tab {
     border: 1px solid;
     cursor: pointer;
-    padding: 5px 20px;
+    padding: 10px 20px;
     font-size: 18px;
-    font-weight: 400;
-    margin: 9px 10px;
+    margin: 10px 5px;
     text-transform: uppercase;
     display: inline-block;
     color: #fff;
