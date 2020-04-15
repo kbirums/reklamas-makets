@@ -79,7 +79,7 @@ font-weight: 500;
     position: absolute;
     font-size: 3.4rem;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     color: white;
     top: 90px;
     left: 25px;
@@ -87,8 +87,8 @@ font-weight: 500;
 }
 .uzruna2 {
     position: absolute;
-    font-size: 1.95rem;
-    font-weight: 300;
+    font-size: 1.55rem;
+    font-weight: 200;
     color: white;
     top: 150px;
     left: 25px;
