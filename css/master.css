@@ -105,28 +105,7 @@ font-weight: 700;
     mix-blend-mode: soft-light;
     opacity: 0.4;
 }
-.sadalas {
-    margin: 0 auto;
-    text-align: center;
-    margin-bottom: 10px;
-}
-.sadalas_item {
-    color: #383838;
-    text-transform: uppercase;
-    border: 1px solid whitesmoke;
-    font-size: 17px;
-    display: inline-block;
-    padding: 5px 10px;
-    margin: 10px;
-}
-.sadalas_item:hover {
-    color: #fff;
-    background: #000;
-    border: 1px solid #f5cc06;
-    border-radius: 10px;
-}
-/*/ banneri/*/
-
+/*/ banneri/*/ 
 .reklama{
   border:1px solid pink;
   background:pink;
