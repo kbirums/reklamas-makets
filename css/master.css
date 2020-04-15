@@ -7,6 +7,9 @@
 html{
   background: whitesmoke;
 }
+img{
+    width: 100%;
+}
 /*/ header/*/
 #lapas_saturs{
     margin: 0 auto;
