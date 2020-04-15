@@ -233,7 +233,11 @@ padding: 0 0 20px 0;
     margin: 5px auto;
     padding: 10px;
 }
-.zurnals{
+.zurnals {
+    padding: 10px;
     width: 45%;
     float: left;
+}
+.sauklis, .cenas{
+  text-align:center;
 }
