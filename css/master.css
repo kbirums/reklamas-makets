@@ -79,8 +79,9 @@ font-weight: 700;
   text-decoration: underline;
 }
 /*/ saturs/*/
-.main_saturs{
-  background:White;
+.main_saturs {
+    background: White;
+    overflow: auto;
 }
 #reklamas_tabi {
     background-color: #f5cc06;
@@ -104,11 +105,6 @@ font-weight: 700;
     top: 130px;
     left: 25px;
     z-index: 1;
-}
-.main_content {
-    background: white;
-    height: 1200px;
-    padding: 0 10px;
 }
 .cover_bilde {
     height: 200px;
@@ -168,7 +164,6 @@ font-weight: 700;
     color: #fff;
 }
 .panels {
-    background: #fffffff6;
     min-height: 600px;
     width: 74%;
     margin-left: 0;
@@ -206,7 +201,6 @@ font-weight: 700;
   }
 /*/ Kontakti /*/
 .kontakti {
-    background: white;
     width: 26%;
     float: right;
     padding: 25px 10px;
