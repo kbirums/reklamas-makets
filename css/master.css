@@ -13,15 +13,18 @@ img{
     width: 100%;
 }
 /*/ header/*/
-#topnav{
-  position: relative;
+#topnav {
+    height: 20px;
+    position: relative;
 }
 .top_stuff{
+  position: absolute;
   display: inline-block;
   padding:0 5px;
   float:right;
 }
 #lang{
+  position: absolute;
   float:left;
 }
 #top_header{
