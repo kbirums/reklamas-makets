@@ -24,8 +24,9 @@ second_menu_item{
     margin: 0 5px;
     height: 35px;
 }
-.satura_izvelne{
+.cover_bilde{
   height: 300px;
+  overflow: hidden;
 }
 .sadala{
   height:100px;
