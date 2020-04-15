@@ -229,3 +229,7 @@ padding: 0 0 20px 0;
 .izvietojumu_poga{
   border:1px solid green;
 }
+.zurnals{
+    width: 45%;
+    float: left;
+}
