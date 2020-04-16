@@ -24,7 +24,7 @@ p{
   padding: 5px;
   padding-left: 10px;
   line-height: 1.5;
-} 
+}
 h3, h4 {
     padding-top: 10px;
     font-size: 18px;
@@ -121,40 +121,6 @@ font-weight: 700;
     mix-blend-mode: soft-light;
     opacity: 0.4;
 }
-/*/ banneri/*/
-.reklama{
-  border:1px solid pink;
-  background:pink;
-  padding:10px;
-}
-.reklama:hover{
-  border:1px solid grey;
-  background:grey;
-}
-.giga{
-  width:1000px;
-  height: 300px;
-}
-.centrs{
-  width:840px;
-  height: 250px;
-}
-.tornis{
-  width:300px;
-  height: 600px;
-}
-.tornis{
-  width:300px;
-  height: 600px;
-}
-.rakstu_baneris{
-  width:500px;
-  height: 200px;
-}
-.kvadrats{
-  width:300px;
-  height: 300px;
-}
 /*/ tabi /*/
 .warpper {
     background: #f5cc06;
@@ -233,16 +199,7 @@ padding: 0 0 20px 0;
   line-height: 1.5rem;
 }
 /*/ zurnali /*/
-.zurnals {
-  position: relative;
-}
-#zurnalu_logo{
-  float:left;
-  width:200px;
-}
-.drukato_info{
-  float:left;
-}
+
 /*/ izvietojumi /*/
 #subkad_teksts {
     margin-top: 30px;
