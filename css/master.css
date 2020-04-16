@@ -287,5 +287,13 @@ padding: 0 0 20px 0;
   transition: max-height 0.2s ease-out;
 }
 #b_info { display: inline-flex; width: 100%; }
-#b_plat { display: block; border-right: 3px solid grey; width: 20%; text-align: center; display: inline-block; box-sizing: border-box; }
+#b_plat {
+    border-right: 1px solid grey;
+    width: 20%;
+    text-align: center;
+    display: inline-block;
+}
+#b_plat:last-child {
+    border-right: none
+}
 .b_nos{border-right: 1px solid white; padding-right:5px; color:black}
