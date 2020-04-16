@@ -205,6 +205,9 @@ padding: 0 0 20px 0;
 zurnal_apraksts{
   position: relative;
 }
+#z_info{
+  display: inline-flex;
+}
 /*/ izvietojumi /*/
 #subkad_teksts {
     margin-top: 30px;
