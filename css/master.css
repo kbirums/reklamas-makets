@@ -199,8 +199,9 @@ padding: 0 0 20px 0;
   line-height: 1.5rem;
 }
 /*/ zurnali /*/
-.zurnali_vaki{
-  float:left;
+.zurnali_vaki {
+    float: left;
+    width: 250px;
 }
 zurnal_apraksts{
   position: relative;
