@@ -268,7 +268,7 @@ padding: 0 0 20px 0;
 }
 
 .accordion:after {
-  content: '\002B';
+  content: "Apskatīt piemēru";
   color: #777;
   font-weight: bold;
   float: right;
@@ -276,7 +276,7 @@ padding: 0 0 20px 0;
 }
 
 .active:after {
-  content: "\2212";
+  content: "Aizvērt";
 }
 
 .panel {
