@@ -201,13 +201,14 @@ padding: 0 0 20px 0;
 /*/ zurnali /*/
 .zurnali_vaki {
     float: left;
-    width: 250px;
+    width: 30%;
 }
-zurnal_apraksts{
-  position: relative;
+.zurnal_apraksts{
+    width: 60%;
 }
-#z_info{
-  display: inline-flex;
+#z_info {
+    margin: 10px;
+    display: inline-flex;
 }
 /*/ izvietojumi /*/
 #subkad_teksts {
