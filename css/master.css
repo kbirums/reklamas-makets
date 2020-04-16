@@ -266,15 +266,14 @@ padding: 0 0 20px 0;
 .active, .accordion:hover {
   background-color: #ccc;
 }
-
 .accordion:after {
-  content: "Apskatīt";
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
+    content: "Apskatīt";
+    color: #777;
+    font-weight: bold;
+    float: right;
+    padding-right: 50px;
+    margin-left: 5px;
 }
-
 .active:after {
   content: "Aizvērt";
 }
@@ -302,14 +301,14 @@ padding: 0 0 20px 0;
 }
 #b_info {
     display: inline-flex;
-    width: 100%;
-    padding: 10px;
+    width: 80%;
 }
 #b_plat {
     border-right: 1px solid grey;
-    width: 20%;
+    width: 25%;
     text-align: center;
     display: inline-block;
+    margin: 0px 0px;
 }
 #b_plat:last-child {
     border-right: none
