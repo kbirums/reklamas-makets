@@ -12,6 +12,14 @@ html{
 img{
     width: 100%;
 }
+a{
+  text-decoration: none;
+  color:black;
+}
+a:hover{
+  text-decoration: underline;
+  color:black;
+}
 p{
   padding: 5px;
   line-height: 1.3rem;
