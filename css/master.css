@@ -254,12 +254,7 @@ padding: 0 0 20px 0;
   width:100%;
   padding: 10px 0;
 }
-th{
-  text-align: center;
-}
-tr{
-  border:1px solid red;
-}
-td{
-  border:1px solid blue
+.tab_vir{
+  font-size:14px;
+  color:green;
 }
