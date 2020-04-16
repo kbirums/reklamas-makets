@@ -289,20 +289,16 @@ padding: 0 0 20px 0;
     transition: max-height 0.2s ease-out;
 }
 #v_info {
+    border-bottom: 1px solid #e6e6e6;
     display: inline-flex;
     width: 100%;
-    padding: 10px;
+    padding: 15px 0 5px;
 }
 #v_plat {
-    font-size: 17px;
-    font-weight: 500;
-    border-bottom: 1px solid #f5cc06;
+    font-size: 16px;
+    font-weight: 400;
     width: 20%;
     text-align: center;
-    display: inline-block;
-}
-#v_plat:last-child {
-    border-right: none
 }
 #b_info {
     display: inline-flex;
