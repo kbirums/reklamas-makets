@@ -286,7 +286,11 @@ padding: 0 0 20px 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
 }
-#v_info { display: inline-flex; width: 100%; }
+#v_info {
+    display: inline-flex;
+    width: 100%;
+    padding: 10px;
+}
 #v_plat {
     border-right: 1px solid grey;
     width: 20%;
