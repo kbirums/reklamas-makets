@@ -307,7 +307,8 @@ padding: 0 0 20px 0;
 }
 /*/ baneru izvietojumi /*/
 .izm_main{}
-.citi_izmeri{display: inline-flex;}
+.cits_info{display: inline-flex;}
+.citi_izmeri{display: inline-block;}
 .izm_1{ width:100%}
 .izm_2{ width:100%}
 .izm_3{ width:100%}
