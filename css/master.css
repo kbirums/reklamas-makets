@@ -321,5 +321,8 @@ padding: 0 0 20px 0;
     display: flex;
     text-align: center;
 }
-.info_1{width: 100%}
+.info_1 {
+    white-space: nowrap;
+    width: 100%;
+}
 .pieejamie_izmeri{font-weight: 500}
