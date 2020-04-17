@@ -264,10 +264,9 @@ padding: 0 0 20px 0;
 .a_panel {
     margin: 0 auto;
     max-height: 0;
-    border: 1px solid #dedede;
     margin-bottom: 3px;
     overflow: hidden;
-    transition: max-height 0.2s ease-out;
+    transition: max-height 0.32s ease-out;
 }
 #virsrakstu_info {
     border-bottom: 1px solid #7b7b7b;
