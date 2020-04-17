@@ -273,12 +273,6 @@ padding: 0 0 20px 0;
     width: 100%;
     padding: 15px 0 5px;
 }
-#v_plat {
-    font-size: 16px;
-    font-weight: 400;
-    width: 20%;
-    text-align: center;
-}
 #baneru_info {
     display: inline-flex;
     width: 80%;
@@ -287,19 +281,6 @@ padding: 0 0 20px 0;
     font-size: 14px;
     width: 100%;
     padding: 5px 20px;
-}
-#b_plat:first-child {
-    font-weight: 500;
-    padding-left: 10px;
-    text-align: left;
-}
-#b_plat {
-    font-size: 14px;
-    border-right: 1px solid #dedede;
-    width: 25%;
-    text-align: center;
-    display: inline-block;
-    margin: 0px 0px;
 }
 .panel_info {
     padding: 10px;
