@@ -131,12 +131,10 @@ font-weight: 700;
 .tab {
     border: 1px solid;
     cursor: pointer;
-    padding: 10px 20px;
-    font-size: 18px;
-    margin: 10px 5px;
-    text-transform: uppercase;
+    padding: 7px 12px;
+    font-size: 16px;
+    margin-bottom: 10px;
     display: inline-block;
-    color: #232323;
 }
 .panels {
     min-height: 600px;
@@ -210,7 +208,7 @@ padding: 0 0 20px 0;
     margin: 10px;
     display: inline-flex;
 }
-/*/ izvietojumi /*/
+/*/ Panelja informācija /*/
 #subkad_teksts {
     margin-top: 10px;
     height: 18px;
@@ -307,3 +305,10 @@ padding: 0 0 20px 0;
     width: 40%;
     margin: 0 auto;
 }
+/*/ baneru izvietojumi /*/
+.citi_izmeri{display: inline-flex;}
+.izm_1{ width:100%}
+.izm_2{ width:100%}
+.izm_3{ width:100%}
+.izm_4{ width:100%}
+.baneru_piemers{width:30%;  float:left;}
