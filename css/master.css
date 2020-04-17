@@ -25,9 +25,10 @@ p{
   padding-left: 10px;
   line-height: 1.5;
 }
-h3, h4 {
+h2, h3, h4 {
     padding-top: 10px;
-    font-size: 18px;
+    padding-bottom:10px;
+    font-size: 17px;
 }
 /*/ header/*/
 #topnav {
@@ -150,9 +151,9 @@ font-weight: 700;
 }
 .panel-title {
     border-bottom: 2px solid #f5cb02;
-    font-size: 2em;
+    font-size: 1.72em;
     padding-bottom: 5px;
-    margin: 5px;
+    margin-bottom: 20px;
     padding-left: 20px;
 }
 .radio{
