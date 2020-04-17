@@ -251,11 +251,12 @@ padding: 0 0 20px 0;
     color: #777;
     font-weight: bold;
     float: right;
-    padding-right: 50px;
+    padding-right: 10px;
     margin-left: 5px;
 }
 .active:after {
-  content: "Aizvērt";
+  content: "x";
+  color:red;
 }
 .a_panel {
     margin: 0 auto;
