@@ -246,9 +246,11 @@ padding: 0 0 20px 0;
 .active{
     border-left: 1px solid #dedede;
     border-right: 1px solid #dedede;
+    transition: none;
 }
 .accordion:hover {
     background-color: #ffeb3b24;
+    transition: none;
 }
 .accordion:after {
     content: "Apskatīt";
