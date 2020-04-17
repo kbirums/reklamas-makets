@@ -275,12 +275,12 @@ padding: 0 0 20px 0;
 }
 #v_plat {
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 500;
     width: 20%;
     text-align: center;
 }
 #b_plat:first-child {
-    font-weight: 500;
+    font-weight: 600;
     padding-left: 10px;
     text-align: left;
 }
