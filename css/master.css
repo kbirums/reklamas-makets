@@ -249,7 +249,7 @@ padding: 0 0 20px 0;
     transition: none;
 }
 .accordion:hover {
-    background-color: #ffeb3b24;
+    background-color: #a5a5a512;
     transition: none;
 }
 .active:after {
