@@ -255,8 +255,12 @@ padding: 0 0 20px 0;
     margin-left: 5px;
 }
 .active:after {
-  content: "x";
-  color:red;
+    content: "Aizvērt";
+    text-align: center;
+    width: 7%;
+    font-size: 20px;
+    margin-top: -5px;
+    font-weight: 200;
 }
 .a_panel {
     margin: 0 auto;
@@ -322,7 +326,9 @@ padding: 0 0 20px 0;
     display: flex;
 }
 .info_1 {
+    padding-top: 4px;
     white-space: nowrap;
     width: 100%;
+    text-align: center;
 }
 .pieejamie_izmeri{font-weight: 500}
