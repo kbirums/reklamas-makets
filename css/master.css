@@ -308,5 +308,7 @@ padding: 0 0 20px 0;
 /*/ baneru izvietojumi /*/
 .baneru_info{width: 65%}
 .baneru_piemers { width: 34%}
-.izmer_virsraksti{display: inline-flex;}
+.izmer_virsraksti {
+    display: flex;
+}
 .info_1{width: 100%}
