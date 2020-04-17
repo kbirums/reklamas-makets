@@ -300,7 +300,7 @@ padding: 0 0 20px 0;
     display: inline-block;
     margin: 0px 0px;
 }
-.panel_info{padding:5px  display:inline;}
+.panel_info{padding:5px;  display:inline;}
 .b_nos{border-right: 1px solid white; padding-right:5px; color:black}
 /*/ baneru izvietojumi /*/
 .baneru_info{width: 65%}
