@@ -310,6 +310,7 @@ padding: 0 0 20px 0;
 .baneru_piemers { width: 30%}
 .izmer_virsraksti {
     display: flex;
+    font-weight: 400;
 }
 .info_1{width: 100%}
 .pieejamie_izmeri{font-weight: 500}
