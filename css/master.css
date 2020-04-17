@@ -283,10 +283,10 @@ padding: 0 0 20px 0;
     display: inline-flex;
     width: 80%;
 }
-.baneru_informacija{
+.baneru_informacija {
     font-size: 14px;
     width: 100%;
-    padding: 10px;
+    padding: 5px 20px;
 }
 #b_plat:first-child {
     font-weight: 500;
