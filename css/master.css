@@ -306,9 +306,10 @@ padding: 0 0 20px 0;
 }
 .b_nos{border-right: 1px solid white; padding-right:5px; color:black}
 /*/ baneru izvietojumi /*/
-.baneru_info{width: 65%}
-.baneru_piemers { width: 34%}
+.baneru_info{width: 69%}
+.baneru_piemers { width: 30%}
 .izmer_virsraksti {
     display: flex;
 }
 .info_1{width: 100%}
+.pieejamie_izmeri{font-weight: 500}
