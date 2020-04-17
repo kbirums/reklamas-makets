@@ -256,7 +256,6 @@ padding: 0 0 20px 0;
 }
 .active:after {
     content: "Aizvērt";
-    text-align: center;
     width: 7%;
     font-size: 20px;
     margin-top: -5px;
