@@ -252,18 +252,21 @@ padding: 0 0 20px 0;
     background-color: #ffeb3b24;
     transition: none;
 }
+.active:after {
+    content: "Aizvērt";
+    width: 9%;
+    padding-right: 0;
+    border-bottom: 1px solid #FFC107;
+}
 .accordion:after {
+    text-align: center;
     content: "Apskatīt";
     color: #777;
     font-weight: bold;
     float: right;
-    padding-right: 10px;
-    margin-left: 5px;
-}
-.active:after {
-    content: "Aizvērt";
-    width: 7%;
-    border-bottom: 2px solid #FFC107;
+    padding-right: 7px;
+    margin-right: 4px;
+    margin-left: 7px;
 }
 .a_panel {
     margin: 0 auto;
