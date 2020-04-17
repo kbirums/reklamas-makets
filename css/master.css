@@ -232,16 +232,18 @@ padding: 0 0 20px 0;
 }
 .accordion {
     margin-top: 2px;
-    background: none;
-    color: #444;
     cursor: pointer;
     padding: 5px 10px;
     width: 100%;
-    border: none;
+    border-bottom: 1px;
     text-align: left;
-    outline: none;
     font-size: 15px;
     transition: 0.4s;
+    outline: none;
+    border-bottom: 1px solid #e4e4e4;
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }
 .active{
     transition: none;
