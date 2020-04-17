@@ -267,7 +267,7 @@ padding: 0 0 20px 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
 }
-#v_info {
+#virsrakstu_info {
     border-bottom: 1px solid #e6e6e6;
     display: inline-flex;
     width: 100%;
@@ -310,7 +310,7 @@ padding: 0 0 20px 0;
 .baneru_piemers {
     width: 35%;
 }
-.izmer_virsraksti {
+.izmeru_virsraksti {
     text-align: center;
     display: flex;
     font-weight: 500;
@@ -318,7 +318,7 @@ padding: 0 0 20px 0;
     padding-bottom: 3px;
     margin-bottom: 3px;
 }
-.izmer_teksts{
+.izmeru_teksts{
     display: flex;
     text-align: center;
 }
