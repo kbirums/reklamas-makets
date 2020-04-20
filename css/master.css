@@ -296,6 +296,28 @@ padding: 0 0 20px 0;
     display: inline-flex;
     width: 89%;
 }
+#z_v_plat {
+    font-size: 16px;
+    font-weight: 500;
+    width: 22%;
+    text-align: center;
+}
+#z_v_plat:last-child{
+  width: 12%;
+}
+#z_b_plat:first-child {
+    font-weight: 600;
+}
+#z_b_plat {
+    font-size: 14px;
+    border-right: 1px solid #dedede;
+    width: 100%;
+    text-align: center;
+}
+#z_baneru_info {
+    display: inline-flex;
+    width: 89%;
+}
 .baneru_informacija {
     font-size: 14px;
     width: 100%;
