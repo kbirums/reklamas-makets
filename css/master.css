@@ -286,11 +286,12 @@ padding: 0 0 20px 0;
 #b_plat:first-child {
     font-weight: 600;
 }
-#z_plat {
-    font-size: 14px;
-    border-right: 1px solid #dedede;
-    width: 100%;
+#z_plat{
+    font-size: 16px;
+    font-weight: 500;
+    width: 27%;
     text-align: center;
+    white-space: nowrap;
 }
 #z_plat {
     font-size: 16px;
@@ -302,6 +303,10 @@ padding: 0 0 20px 0;
   width: 12%;
 }
 #baneru_info {
+    display: inline-flex;
+    width: 89%;
+}
+#z_baneru_info {
     display: inline-flex;
     width: 89%;
 }
