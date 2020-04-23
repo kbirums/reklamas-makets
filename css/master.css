@@ -387,3 +387,8 @@ img {
 .accordion:after {
     display: none;
 }
+#baneru_info {
+    display: inline-flex;
+    width: 100%;
+}
+}
