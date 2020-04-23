@@ -428,4 +428,8 @@ padding: 0 0 20px 0;
     width: 100%;
     display: inline;
 }
+.tab {
+    width: 80%;
+    margin-bottom: 1px;
+}
 }
