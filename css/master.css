@@ -356,26 +356,21 @@ padding: 0 0 20px 0;
     width: 100%;
 }
 .uzruna2 {
-    position: absolute;
     font-size: 1rem;
-    font-weight: 200;
-    color: #272727;
     top: 96px;
     left: 25px;
-    z-index: 1;
 }
 .uzruna {
-    position: absolute;
     font-size: 1.62rem;
-    text-transform: uppercase;
-    font-weight: 400;
-    color: #272727;
     top: 30px;
   }
 .cover_bilde {
-        height: 160px;}
+    height: 160px;}
 .panels {
-            width: 100%;}
+    width: 100%;}
 img {
-                height: 150px;
-            }
+    height: 150px;
+  }
+  .main_saturs {
+    width: 99%;
+  }
