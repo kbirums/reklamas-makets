@@ -383,6 +383,9 @@ padding: 0 0 20px 0;
       font-size: 14px;
       width: 25%;
   }
+  #b_plat:nth-child(4){
+    border:none;
+  }
   #v_plat:last-child {
     display: none;
 }
