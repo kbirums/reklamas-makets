@@ -255,7 +255,7 @@ padding: 0 0 20px 0;
     text-align: center;
     content: "Apskatīt";
     float: right;
-    padding-right: 10px;
+    padding-right: 30px;
 }
 .active:after {
     content: "Aizvērt";
