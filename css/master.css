@@ -409,20 +409,15 @@ padding: 0 0 20px 0;
 }
 #subkad_virs {
     margin: 20px 0;
-    height: 18px;
+    height: 10px;
     margin-bottom: 25px;
     border-bottom: 2px solid #f5cc06;
 }
 .subkategorija {
-    line-height: 30px;
+    line-height: 18px;
     font-size: 19px;
     width: fit-content;
-}
-.subkategorija:nth-child(3) {
-    line-height: 20px;
-    font-size: 19px;
-    width: fit-content;
-    max-width: 85%;
+    max-width: 90%;
 }
 .baneru_piemers {
     width: 50%;
