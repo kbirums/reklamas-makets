@@ -374,3 +374,13 @@ img {
   .main_saturs {
     width: 99%;
   }
+  .panels {
+      padding: 2px;
+  }
+  #v_plat {
+      font-size: 14px;
+      width: 25%;
+  }
+  #v_plat:last-child {
+    display: none;
+}
