@@ -396,11 +396,7 @@ img {
 }
 #subkad_virs {
     width: 100%;}
-    .subkategorija {
+.subkategorija {
     font-size: 19px;
-    background: White;
-    margin-left: 25px;
-    padding: 0px 15px;
-    font-weight: 400;
     width: fit-content;
 }}
