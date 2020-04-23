@@ -393,6 +393,10 @@ padding: 0 0 20px 0;
     display: inline-flex;
     width: 100%;
 }
+.baneru_informacija {
+    font-size: 13px;
+    padding: 5px;
+}
 .panel-title {
   padding-top:10px;
 }
