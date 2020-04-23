@@ -384,3 +384,6 @@ img {
   #v_plat:last-child {
     display: none;
 }
+.accordion:after {
+    display: none;
+}
