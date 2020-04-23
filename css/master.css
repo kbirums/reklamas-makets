@@ -1,7 +1,10 @@
 /*/ defaultais /*/
 * {
     box-sizing: border-box;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
     object-fit: cover;
+    margin: 0;
+    padding: 0;
 }
 html{
   background: whitesmoke;
@@ -9,14 +12,207 @@ html{
 img{
     width: 100%;
 }
-/*/ Panelja informācija /*/
-.main_saturs{
-  {
-    background: white;
+a{
+  text-decoration: none;
+  color:black;
 }
+a:hover{
+  text-decoration: underline;
+  color:black;
+}
+p{
+  padding: 5px;
+  padding-left: 10px;
+  line-height: 1.5;
+}
+h2, h3, h4 {
+    padding-top: 10px;
+    padding-bottom:10px;
+    font-size: 17px;
+}
+/*/ header/*/
+#topnav {
+    height: 20px;
+    text-transform: uppercase;
+    position: relative;
+    font-size: 15px;
+}
+.top_stuff {
+    float: right;
+    padding: 0 10px;
+}
+.lang{
+  float:left;
+}
+#top_header {
+    background: white;
+    padding: 20px 10px 10px;
+    margin-bottom: 5px;
+}
+#logo {
+    padding: 20px 0 10px;
+    width: 250px;
+}
+#lapas_saturs{
+  z-index: 1;
+    margin: 0 auto;
+    width: 1220px;
+}
+.first_menu{
+  padding: 10px 0;
+}
+.first_menu_item {
+    line-height: 20px;
+    display: inline-flex;
+    padding: 0px 10px;
+    margin-bottom: 4px;
+    font-size: 20px;
+    border-right: 2px solid grey;
+}
+.first_menu_item:last-child{
+  border-right: none;
+}
+.first_menu_item:hover{
+  text-decoration: underline;
+}
+.second_menu_item {
+    display: inline-flex;
+    padding: 6px 10px;
+    height: 20px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.second_menu_item:first-child {
+font-weight: 700;
+}
+.second_menu_item:hover{
+  text-decoration: underline;
+}
+/*/ saturs/*/
+.main_saturs {
+    background: White;
+    overflow: auto;
+}
+#reklamas_tabi {
+    background-color: #f5cc06;
+    position: relative;
+}
+.uzruna {
+    position: absolute;
+    font-size: 3.4rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #272727;
+    top: 70px;
+    left: 25px;
+    z-index: 1;
+}
+.uzruna2 {
+    position: absolute;
+    font-size: 1.55rem;
+    font-weight: 200;
+    color: #272727;
+    top: 130px;
+    left: 25px;
+    z-index: 1;
+}
+.cover_bilde {
+    height: 200px;
+    overflow: hidden;
+    mix-blend-mode: soft-light;
+    opacity: 0.4;
+}
+/*/ tabi /*/
+.warpper {
+    background: #f5cc06;
+    display: block;
+    flex-direction: column;
+    text-align: center;
+}
+.tab {
+    border: 1px solid;
+    cursor: pointer;
+    padding: 7px 12px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.panels {
+    min-height: 600px;
+    width: 74%;
+    margin-left: 0;
+    float: left;
+    text-align: left;
+    overflow: hidden;
+    padding: 20px;
+}
+.panel{
+  display:none;
+}
+.panel-title {
+    border-bottom: 2px solid #f5cb02;
+    font-size: 1.72em;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.radio{
+  display:none;
+}
+#one:checked ~ .panels #one-panel,
+#two:checked ~ .panels #two-panel,
+#three:checked ~ .panels #three-panel,
+#four:checked ~ .panels #four-panel,
+#five:checked ~ .panels #five-panel{
+  display:block
+}
+#one:checked ~ .tabs #one-tab,
+#two:checked ~ .tabs #two-tab,
+#three:checked ~ .tabs #three-tab,
+#four:checked ~ .tabs #four-tab,
+#five:checked ~ .tabs #five-tab{
+  background: #101010;
+      color: #f4ca00;
+  }
+/*/ Kontakti /*/
+.kontakti {
+    width: 26%;
+    float: right;
+    padding: 25px 10px;
+    margin: 0;
+}
+.bilde {
+    margin: 0 auto;
+    height: auto;
+    overflow: hidden;
+    width: 200px;
+}
+.persona{
+padding: 0 0 20px 0;
+}
+.info-kontaktu{
+    text-align: center;
+}
+.list{
+  padding-left:30px;
+  line-height: 1.5rem;
+}
+/*/ zurnali /*/
+.zurnali_vaki {
+    float: left;
+    width: 25%;
+}
+.zurnal_apraksts{
+    width: 60%;
+}
+#z_info {
+    margin: 10px;
+    display: inline-flex;
+}
+/*/ Panelja informācija /*/
 #subkad_teksts {
     margin-top: 10px;
-    height: 19px;
+    height: 18px;
     margin-bottom: 17px;
     border-bottom: 2px solid #f5cc06;
 }
