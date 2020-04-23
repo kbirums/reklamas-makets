@@ -56,7 +56,7 @@ h2, h3, h4 {
 #lapas_saturs{
   z-index: 1;
     margin: 0 auto;
-    width: 1220px;
+    width: 100%;
 }
 .first_menu{
   padding: 10px 0;
@@ -440,5 +440,5 @@ padding: 0 0 20px 0;
 }
 .warpper {
     padding: 3px;}
-  
+
 }
