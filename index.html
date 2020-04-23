@@ -3,6 +3,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/master.css">
   <title>Reklāmas piedāvājums</title>
+  <script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var a_panel = this.nextElementSibling;
+        if (a_panel.style.maxHeight) {
+          a_panel.style.maxHeight = null;
+        } else {
+          a_panel.style.maxHeight = a_panel.scrollHeight + "px";
+        }
+      });
+    }
+  </script>
 </head>
 <body>
   <div id="lapas_saturs">
