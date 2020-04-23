@@ -348,8 +348,8 @@ padding: 0 0 20px 0;
     width: 100%;
     text-align: center;
 }
-.pieejamie_izmeri{font-weight: 500}
-
+.pieejamie_izmeri{font-weight: 500
+}
 
 /*/ responsivie /*/
 @media only screen and (max-width: 600px) {
@@ -416,10 +416,10 @@ padding: 0 0 20px 0;
     width: fit-content;
 }
 .subkategorija:nth-child(3) {
-    line-height: 21px;
+    line-height: 20px;
     font-size: 19px;
-    max-width: 80%;
     width: fit-content;
+    max-width: 85%;
 }
 .baneru_piemers {
     width: 50%;
