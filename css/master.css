@@ -391,4 +391,6 @@ img {
     display: inline-flex;
     width: 100%;
 }
+.panel-title {
+  padding-top:10px;
 }
