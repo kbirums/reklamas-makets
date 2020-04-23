@@ -1,34 +1,13 @@
 /*/ defaultais /*/
 * {
     box-sizing: border-box;
-    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
     object-fit: cover;
-    margin: 0;
-    padding: 0;
 }
 html{
   background: whitesmoke;
 }
 img{
     width: 100%;
-}
-a{
-  text-decoration: none;
-  color:black;
-}
-a:hover{
-  text-decoration: underline;
-  color:black;
-}
-p{
-  padding: 5px;
-  padding-left: 10px;
-  line-height: 1.5;
-}
-h2, h3, h4 {
-    padding-top: 10px;
-    padding-bottom:10px;
-    font-size: 17px;
 }
 /*/ Panelja informācija /*/
 #subkad_teksts {
