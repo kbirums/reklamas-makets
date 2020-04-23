@@ -357,6 +357,9 @@ padding: 0 0 20px 0;
     padding: 5px;
     width: 100%;
 }
+.accordion{
+    padding: 5px;
+}
 .uzruna2 {
     font-size: 1rem;
     top: 96px;
