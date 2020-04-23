@@ -849,3 +849,19 @@
   </div>
 </div></div></div>
 </body>
+<script>
+  var acc = document.getElementsByClassName("accordion");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var a_panel = this.nextElementSibling;
+      if (a_panel.style.maxHeight) {
+        a_panel.style.maxHeight = null;
+      } else {
+        a_panel.style.maxHeight = a_panel.scrollHeight + "px";
+      }
+    });
+  }
+</script>
