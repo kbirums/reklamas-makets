@@ -357,18 +357,24 @@ padding: 0 0 20px 0;
     padding: 5px;
     width: 100%;
 }
+#reklamas_tabi {
+    height: 130px;
+    background-color: #f5cc06;
+    position: relative;
+}
 .accordion{
     padding: 5px;
 }
 .uzruna2 {
     font-size: 1rem;
-    top: 96px;
+    top: 75px;
     left: 25px;
 }
 .uzruna {
-    font-size: 1.62rem;
-    top: 30px;
-  }
+    font-size: 1.92rem;
+    top: 15px;
+    line-height: 27px;
+}
 .cover_bilde {
     height: 150px;}
 .panels {
