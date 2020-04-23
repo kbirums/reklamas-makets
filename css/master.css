@@ -349,3 +349,29 @@ padding: 0 0 20px 0;
     text-align: center;
 }
 .pieejamie_izmeri{font-weight: 500}
+/*/ responsivie /*/
+@media only screen and (max-width: 600px) {
+  #lapas_saturs {
+    padding: 5px;
+    width: 100%;
+}
+.uzruna2 {
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 200;
+    color: #272727;
+    top: 96px;
+    left: 25px;
+    z-index: 1;
+}
+.uzruna {
+    position: absolute;
+    font-size: 1.62rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #272727;
+    top: 30px;
+  }
+
+.cover_bilde {
+        height: 150px;}
