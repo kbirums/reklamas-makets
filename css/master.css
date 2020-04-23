@@ -410,9 +410,9 @@ padding: 0 0 20px 0;
     border-bottom: 2px solid #f5cc06;
 }
 .subkategorija {
-    font-size: 19px;
-    width: 85%;
     line-height: 30px;
+    font-size: 19px;
+    width: fit-content;
 }
 #subkad_virs:nth-child(3) {
     margin: 20px 0;
