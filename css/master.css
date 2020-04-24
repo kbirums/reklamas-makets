@@ -452,8 +452,9 @@ padding: 0 0 20px 0;
 #z_plat:last-child{
   width: 12%;
 }
-.zurnala_vaks{
-  max-width: 40%;
+.zurnala_vaks {
+    max-width: 450px;
+    width: 400px;
 }
 .zurnala_info{
     max-width: 80%;
