@@ -446,13 +446,4 @@ padding: 0 0 20px 0;
     padding: 3px;}
 }
 @media only screen and (max-width: 700px) {
-.uzruna{
-  font-size: 36px;
-      top: 17px;
-}
-  .uzruna2 {
-    top: 109px;
-left: 25px;
-z-index: 1;
-}
 }
