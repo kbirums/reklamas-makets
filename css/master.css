@@ -482,4 +482,17 @@ padding: 0 0 20px 0;
       display: inline-flex;
       width: 100%;
   }
+  .zurnala_vaks {
+    width: 60%;
+    margin: 0 auto;
+    max-height: 500px;
+}
+.zurnala_apraksts {
+    padding: 5px;
+}
+.zurnalu_apraksta_virsraksts{
+    text-align: center;
+    font-size: 23px;
+    font-weight: 500;
+}
 }
