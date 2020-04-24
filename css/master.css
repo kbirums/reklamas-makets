@@ -352,6 +352,14 @@ padding: 0 0 20px 0;
 }
 
 /*/ responsivie /*/
+@media only screen and (max-width: 800px) {
+  .accordion:after {
+    text-align: center;
+    content: "Apskatīt";
+    float: right;
+    padding-right: 9px;
+}
+}
 @media only screen and (max-width: 600px) {
   #lapas_saturs {
     padding: 5px;
@@ -444,6 +452,4 @@ padding: 0 0 20px 0;
 }
 .warpper {
     padding: 3px;}
-}
-@media only screen and (max-width: 700px) {
 }
