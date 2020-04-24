@@ -467,4 +467,19 @@ padding: 0 0 20px 0;
 .zurnalu_apraksta_list
   {
     padding-left: 30px;
-}}
+}
+@media only screen and (max-width: 600px) {
+  #z_plat:last-child {
+      display: none;
+  }
+  #z_plat {
+      font-size: 16px;
+      font-weight: 500;
+      width: 33%;
+      text-align: center;
+  }
+  #z_baneru_info {
+      display: inline-flex;
+      width: 100%;
+  }
+}
