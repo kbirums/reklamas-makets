@@ -925,17 +925,23 @@
 <footer>
   <script>
   var acc = document.getElementsByClassName("accordion");
-  var i;
+    var i;
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
 
-  for (i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var a_panel = this.nextElementSibling;
-      if (a_panel.style.maxHeight) {
-        a_panel.style.maxHeight = null;
-      } else {
-        a_panel.style.maxHeight = a_panel.scrollHeight + "px";
-      }
-    });
-  }
+      	var active = document.getElementsByClassName("accordion active")[0];
+        if (active) {
+        	active.classList.remove("active");
+          var p_panel = active.nextElementSibling;
+          p_panel.style.maxHeight = null;
+        }
+        this.classList.toggle("active");
+        var a_panel = this.nextElementSibling;
+        if (a_panel.style.maxHeight) {
+          a_panel.style.maxHeight = null;
+        } else {
+          a_panel.style.maxHeight = a_panel.scrollHeight + "px";
+        }
+      });
+    }
   </script></footer>
