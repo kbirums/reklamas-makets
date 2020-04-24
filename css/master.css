@@ -440,5 +440,13 @@ padding: 0 0 20px 0;
 }
 .warpper {
     padding: 3px;}
-
+.uzruna{
+  font-size: 36px;
+      top: 17px;
+}
+  .uzruna2 {
+    top: 109px;
+left: 25px;
+z-index: 1;
+}
 }
