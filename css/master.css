@@ -455,10 +455,10 @@ padding: 0 0 20px 0;
 .zurnala_vaks{
   max-width: 400px;
 }
-.zurnala_info
-  {
+.zurnala_info{
     max-width: 80%;
     margin: 0 auto;
+    display: inherit;
 }
 .zurnala_apraksts{
     padding: 25px;
