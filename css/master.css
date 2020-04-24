@@ -440,6 +440,8 @@ padding: 0 0 20px 0;
 }
 .warpper {
     padding: 3px;}
+}
+@media only screen and (max-width: 700px) {
 .uzruna{
   font-size: 36px;
       top: 17px;
