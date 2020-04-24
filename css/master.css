@@ -371,6 +371,9 @@ padding: 0 0 20px 0;
     left: 25px;
     z-index: 1;
 }
+.a_panel {
+    background: #f5f5f5;}
+
 .uzruna {
     font-size: 1.92rem;
     top: 15px;
