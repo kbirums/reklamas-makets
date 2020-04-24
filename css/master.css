@@ -441,6 +441,7 @@ padding: 0 0 20px 0;
 .warpper {
     padding: 3px;}
 }
+
 /*/ Zurnali /*/
 #z_plat {
     font-size: 16px;
@@ -458,4 +459,7 @@ padding: 0 0 20px 0;
   {
     max-width: 80%;
     margin: 0 auto;
-}}
+}
+.zurnala_apraksts{
+    padding: 25px;
+}
