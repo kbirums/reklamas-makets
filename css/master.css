@@ -453,8 +453,8 @@ padding: 0 0 20px 0;
   width: 12%;
 }
 .zurnala_vaks {
-    max-width: 450px;
-    width: 400px;
+    width: 40%;
+    max-height: 500px;
 }
 .zurnala_info{
     max-width: 80%;
