@@ -25,6 +25,10 @@ p{
   padding-left: 10px;
   line-height: 1.5;
 }
+h1{
+    font-size: 1.7rem;
+    font-weight: 500;
+}
 h2, h3, h4 {
     padding-top: 10px;
     padding-bottom:10px;
@@ -321,7 +325,7 @@ padding: 0 0 20px 0;
     max-width: 30%;
     max-height: 200px;
     object-fit: contain;
-}
+}v
 .izmeru_virsraksti {
     display: flex;
     font-weight: 500;
