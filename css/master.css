@@ -327,7 +327,8 @@ padding: 0 0 20px 0;
     object-fit: contain;
 }v
 .izmeru_virsraksti {
-    display: flex;
+  display: inline-flex;
+  width: 100%;
     font-weight: 500;
     border-bottom: 1px solid #e4e4e4;
     padding-bottom: 1px;
