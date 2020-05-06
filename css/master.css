@@ -253,6 +253,7 @@ padding: 0 0 20px 0;
     content: "Aizvērt";
 }
 .a_panel {
+    width: 70%;
     margin: 0 auto;
     max-height: 0;
     margin-bottom: 3px;
@@ -375,8 +376,8 @@ padding: 0 0 20px 0;
     z-index: 1;
 }
 .a_panel {
-    background: #fff;}
-
+    background: #fff;
+  }
 .uzruna {
     font-size: 1.92rem;
     top: 15px;
