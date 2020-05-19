@@ -521,3 +521,7 @@ p {
 .sazinies_saturs{
   display: inline-flex;
 }
+.personas_info{
+    text-align: center;
+    display: grid;
+}
