@@ -525,3 +525,7 @@ p {
     text-align: center;
     display: grid;
 }
+.name{
+    font-weight: 500;
+    font-size: 20px;
+}
