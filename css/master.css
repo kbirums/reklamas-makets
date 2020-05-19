@@ -465,6 +465,11 @@ font-weight: 700;
   #z_plat:last-child {
       display: none;
   }
+  .persona {
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 0 20px 0;
+}
   #z_plat {
       font-size: 16px;
       font-weight: 500;
