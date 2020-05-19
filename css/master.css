@@ -179,29 +179,6 @@ font-weight: 700;
   background: #101010;
       color: #f4ca00;
   }
-/*/ Kontakti /*/
-.kontakti {
-    width: 26%;
-    float: right;
-    padding: 25px 10px;
-    margin: 0;
-}
-.bilde {
-    margin: 0 auto;
-    height: auto;
-    overflow: hidden;
-    width: 200px;
-}
-.persona{
-padding: 0 0 20px 0;
-}
-.info-kontaktu{
-    text-align: center;
-}
-.list{
-  padding-left:30px;
-  line-height: 1.5rem;
-}
 /*/ Panelja informācija /*/
 #subkad_teksts {
     margin-top: 10px;
@@ -528,4 +505,9 @@ p {
 .name{
     font-weight: 500;
     font-size: 20px;
+}
+.persona {
+    margin: 10px;
+    display: block;
+    padding: 0 0 20px 0;
 }
