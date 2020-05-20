@@ -508,7 +508,7 @@ p {
 .cenu_lapa::before {
     content: "";
     display: block;
-    background: url("https://cdn3.iconfinder.com/data/icons/line-icons-set/128/1-02-512.png") no-repeat;
+    background: url("/img/download.png") no-repeat;
     width: 20px;
     height: 20px;
     float: left;
