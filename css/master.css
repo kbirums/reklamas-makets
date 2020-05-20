@@ -499,8 +499,9 @@ p {
 .zurnalu_apraksta_virsraksts{
     text-transform: uppercase;
     font-size: 30px;
-    font-weight: 300;
-    padding-bottom: 0;
+    font-weight: 400;
+    padding-bottom: 5px;
+    padding-top: 10px;
 }
 .cenu_lapa{
   padding-top:10px;
@@ -513,10 +514,6 @@ p {
     height: 28px;
     float: left;
     margin: -5px 6px 0px 0px;
-}
-.zurnalu_apraksta_virsraksts{
-    font-weight: 400;
-    font-size: 28px;
 }
 
 /*/ Sazinies tabulas ar datiem /*/
