@@ -457,9 +457,9 @@ font-weight: 700;
 .zurnala_apraksts {
     padding: 0px 25px;
 }
-.zurnalu_apraksta_list
-  {
+.zurnalu_apraksta_list {
     padding-left: 30px;
+    line-height: 1.5;
 }
 @media only screen and (max-width: 600px) {
   #z_plat:last-child {
@@ -538,6 +538,11 @@ h3:before {
     background-color: #999;
     width: 140px;
 }
+.zurnalu_apraksta_virsraksts{
+    font-weight: 400;
+    font-size: 28px;
+}
+
 /*/ Sazinies tabulas ar datiem /*/
 .sazinies_saturs{
   display: inline-flex;
