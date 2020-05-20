@@ -496,6 +496,9 @@ font-weight: 700;
     font-weight: 300;
     padding-bottom: 0;
 }
+.cenu_lapa{
+  padding-top:10px;
+}
 .cenu_lapa:before {
     content: "";
     display: block;
