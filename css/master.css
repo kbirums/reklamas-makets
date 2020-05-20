@@ -514,30 +514,6 @@ p {
     float: left;
     margin: 0 6px 0 0;
 }
-h3 {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
-h3:after {
-    display: inline-block;
-    margin: 0 0 8px 20px;
-    height: 3px;
-    content: " ";
-    text-shadow: none;
-    background-color: #999;
-    width: 140px;
-}
-h3:before {
-    display: inline-block;
-    margin: 0 20px 8px 0;
-    height: 3px;
-    content: " ";
-    text-shadow: none;
-    background-color: #999;
-    width: 140px;
-}
 .zurnalu_apraksta_virsraksts{
     font-weight: 400;
     font-size: 28px;
