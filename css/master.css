@@ -508,11 +508,11 @@ p {
 .cenu_lapa::before {
     content: "";
     display: block;
-    background: url("/img/download.png") no-repeat;
-    width: 20px;
-    height: 20px;
+    background: url(https://image.flaticon.com/icons/svg/149/149184.svg) no-repeat;
+    width: 24px;
+    height: 28px;
     float: left;
-    margin: 0 6px 0 0;
+    margin: -5px 6px 0px 0px;
 }
 .zurnalu_apraksta_virsraksts{
     font-weight: 400;
