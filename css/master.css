@@ -496,6 +496,15 @@ font-weight: 700;
     font-weight: 300;
     padding-bottom: 0;
 }
+.cenu_lapa:before {
+    content: "";
+    display: block;
+    background: url("https://cdn3.iconfinder.com/data/icons/line-icons-set/128/1-02-512.png") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
 p {
     padding: 5px;
     padding-left: 5px;
