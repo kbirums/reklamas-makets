@@ -499,7 +499,7 @@ font-weight: 700;
 .cenu_lapa{
   padding-top:10px;
 }
-.cenu_lapa:before {
+.cenu_lapa::before {
     content: "";
     display: block;
     background: url("https://cdn3.iconfinder.com/data/icons/line-icons-set/128/1-02-512.png") no-repeat;
