@@ -251,8 +251,10 @@ font-weight: 700;
     width: 22%;
     text-align: center;
 }
-#v_plat:last-child{
-  width: 12%;
+#v_plat:last-child {
+    position: absolute;
+    right: 0;
+    width: 15%;
 }
 #b_plat:first-child {
     font-weight: 600;
@@ -513,7 +515,7 @@ p {
     width: 24px;
     height: 28px;
     float: left;
-    margin: -5px 6px 0px 0px;
+    margin: 0px 6px 0px 0px;
 }
 
 /*/ Sazinies tabulas ar datiem /*/
