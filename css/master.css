@@ -229,7 +229,7 @@ font-weight: 700;
     padding-right: 30px;
 }
 .active:after {
-    content: "Aizvērt";
+    content: "Atvērts";
 }
 .a_panel {
     width: 85%;
