@@ -49,7 +49,9 @@ h4 {
     padding-bottom: 5px;
 }
 ul {
+    font-weight: 300;
     padding-left: 40px;
+    line-height: 1.5;
 }
 /*/ header/*/
 #topnav {
