@@ -564,3 +564,10 @@ p {
 sazinies_info{
     padding: 20px;
 }
+/*/ piedavajums /*/
+.piedavajums{
+width:30%;
+border: 1px solid green;
+border-radous:25px;
+height:300px;
+}
