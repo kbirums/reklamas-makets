@@ -542,9 +542,6 @@ p {
 }
 
 /*/ Sazinies tabulas ar datiem /*/
-.sazinies_saturs{
-  display: inline-flex;
-}
 .personas_info{
     text-align: center;
     display: grid;
