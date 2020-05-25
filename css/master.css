@@ -587,11 +587,12 @@ box-shadow: 1px 2px 3px grey;
 .sponsorings{
   width:100%
 }
-.sponsor_elements{
+.sponsor_elements {
     margin: 1%;
-    width: 24%;
+    min-width: 200px;
+    width: 23%;
     float: left;
-    height: 200px;
+    height: 300px;
     border: 1px solid;
     text-align: center;
 }
