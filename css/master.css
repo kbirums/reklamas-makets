@@ -562,9 +562,16 @@ sazinies_info{
     padding: 20px;
 }
 /*/ piedavajums /*/
-.piedavajums{
-width:30%;
-border: 1px solid green;
-border-radous:25px;
-height:300px;
-}
+.piedavajums
+  {
+      width: 33%;
+      display: block;
+      border: 1px solid grey;
+      border-radius: 10px;
+      text-align: center;
+  };
+  .piedavajumi{
+      width: 100%;
+      clear: both;
+      display: inline-flex;
+  }
