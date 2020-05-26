@@ -441,6 +441,8 @@ box-shadow: 1px 2px 3px grey;
 }
 .sponsor-vaks{
     padding-bottom: 10px;
+    width: 80%;
+    margin: 0 auto;
 }
 .sponsor_elements {
     padding: 10px;
