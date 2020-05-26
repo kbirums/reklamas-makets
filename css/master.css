@@ -176,8 +176,9 @@ ul {
     width: 100%;
     display: inline-flex;
 }
-.b_nos{border-right: 1px solid white; padding-right:5px; color:black}
-
+.b_nos{
+  border-right: 1px solid white; padding-right:5px; color:black
+}
 .baneru_piemers {
     max-width: 30%;
     max-height: 200px;
@@ -206,6 +207,95 @@ ul {
     line-height: 1.6rem;
     padding-left: 50px;
 }
+.main_saturs {
+    background: White;
+    overflow: auto;
+}
+#reklamas_tabi {
+    background-color: #f5cc06;
+    position: relative;
+}
+.uzruna {
+    position: absolute;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #272727;
+    top: 70px;
+    left: 25px;
+    z-index: 1;
+}
+.uzruna2 {
+    position: absolute;
+    font-size: 1.55rem;
+    font-weight: 200;
+    color: #272727;
+    top: 130px;
+    left: 25px;
+    z-index: 1;
+}
+.cover_bilde {
+    height: 200px;
+    overflow: hidden;
+    mix-blend-mode: soft-light;
+    opacity: 0.4;
+}
+/*/ tabi /*/
+.warpper {
+    background: #f5cc06;
+    display: block;
+    flex-direction: column;
+    text-align: center;
+}
+.tab {
+    border: 1px solid;
+    cursor: pointer;
+    padding: 7px 12px;
+    font-size: 18px;
+    margin: 4px;
+    display: inline-block;
+}
+.panels {
+  width:100%;
+    min-height: 600px;
+    margin-left: 0;
+    float: left;
+    text-align: left;
+    overflow: hidden;
+    padding: 20px;
+}
+.panel{
+  display:none;
+}
+.panel-title {
+    border-bottom: 2px solid #f5cb02;
+    font-size: 1.72em;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.radio{
+  display:none;
+}
+#one:checked ~ .panels #one-panel,
+#two:checked ~ .panels #two-panel,
+#three:checked ~ .panels #three-panel,
+#four:checked ~ .panels #four-panel,
+#five:checked ~ .panels #five-panel,
+#six:checked ~ .panels #six-panel,
+#seven:checked ~ .panels #seven-panel{
+  display:block;
+}
+#one:checked ~ .tabs #one-tab,
+#two:checked ~ .tabs #two-tab,
+#three:checked ~ .tabs #three-tab,
+#four:checked ~ .tabs #four-tab,
+#five:checked ~ .tabs #five-tab,
+#six:checked ~ .tabs #six-tab,
+#seven:checked ~ .tabs #seven-tab{
+  background: #101010;
+      color: #f4ca00;
+  }
 /*/ responsivie /*/
 @media only screen and (max-width: 800px) {
   .accordion:after {
