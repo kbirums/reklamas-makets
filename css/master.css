@@ -439,12 +439,15 @@ box-shadow: 1px 2px 3px grey;
 .sponsorings{
   width:100%
 }
+.sponsor-vaks{
+    padding-bottom: 10px;
+}
 .sponsor_elements {
+    padding: 10px;
     margin: 1%;
     min-width: 200px;
     width: 23%;
     float: left;
-    height: 300px;
-    border: 1px solid;
+    height: fit-content;
     text-align: center;
 }
