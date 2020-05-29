@@ -243,7 +243,6 @@ ul {
 }
 /*/ tabi /*/
 .warpper {
-    background: #f5cc06;
     display: block;
     flex-direction: column;
     text-align: center;
@@ -294,10 +293,9 @@ ul {
 #five:checked ~ .tabs #five-tab,
 #six:checked ~ .tabs #six-tab,
 #seven:checked ~ .tabs #seven-tab{
-      background: #ffffff;
       color: #2b2b2b;
       font-weight: 400;
-      border: 1px solid #ffffff;
+      border-bottom: 1px solid;
   }
 /*/ responsivie /*/
 @media only screen and (max-width: 800px) {
