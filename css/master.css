@@ -235,10 +235,11 @@ ul {
     z-index: 1;
 }
 .cover_bilde {
-    height: 200px;
+    object-fit: contain;
+    background-image: url(https://i.jauns.lv/t/2017/02/03/68668/1800x600.jpg?v=1486114809);
+    background-size: cover;
+    height: 220px;
     overflow: hidden;
-    mix-blend-mode: soft-light;
-    opacity: 0.4;
 }
 /*/ tabi /*/
 .warpper {
@@ -248,12 +249,12 @@ ul {
     text-align: center;
 }
 .tab {
-    border: 1px solid;
     cursor: pointer;
-    padding: 7px 12px;
-    font-size: 18px;
-    margin: 4px;
+    padding: 10px 15px;
+    font-size: 20px;
+    margin: 0 4px;
     display: inline-block;
+    font-weight: 300;
 }
 .panels {
   width:100%;
@@ -293,8 +294,10 @@ ul {
 #five:checked ~ .tabs #five-tab,
 #six:checked ~ .tabs #six-tab,
 #seven:checked ~ .tabs #seven-tab{
-  background: #101010;
-      color: #f4ca00;
+      background: #ffffff;
+      color: #2b2b2b;
+      font-weight: 400;
+      border: 1px solid #ffffff;
   }
 /*/ responsivie /*/
 @media only screen and (max-width: 800px) {
