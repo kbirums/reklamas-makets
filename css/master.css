@@ -393,7 +393,7 @@ ul {
     display: inline;
 }
 .tab {
-    width: 95%;
+    width: fit-content;
     margin-bottom: 1px;
 }
 .warpper {
