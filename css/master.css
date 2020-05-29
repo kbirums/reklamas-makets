@@ -62,7 +62,7 @@ ul {
 }
 #subkad_virs {
     margin: 40px 0;
-    height: 18px;
+    min-height: 15px;
     margin-bottom: 17px;
     border-bottom: 2px solid #f5cc06;
 }
