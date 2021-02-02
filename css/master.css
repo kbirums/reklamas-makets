@@ -70,7 +70,6 @@ ul {
 .subkategorija {
     font-size: 25px;
     width: fit-content;
-    background: White;
     margin-left: 25px;
     padding: 0px 15px;
     font-weight: 400;
@@ -85,6 +84,7 @@ ul {
     font-size: 15px;
     transition: 0.4s;
     outline: none;
+    background: #fff;
     border-bottom: 1px solid #e4e4e4;
     border-top: none;
     border-left: none;
